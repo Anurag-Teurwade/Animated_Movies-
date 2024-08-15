@@ -16,7 +16,6 @@ function changeBg(bg, title) {
     
     const banner = document.querySelector('.banner');
     const contents = document.querySelectorAll('.content');
-
   
     banner.style.background = `url("../Animated_Movies/movies/${bg}")`;
     banner.style.backgroundSize = 'cover';
