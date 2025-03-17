@@ -4,10 +4,9 @@
 "An animated movie showcasing captivating visuals and storytelling. This website explores the use of animation techniques to bring characters and scenes to life, creating an engaging and immersive experience."
 
 
-## 🔗 **[🚀 Live Demo](https://animatemovies.netlify.app/)**
+## 🔗 **[Live Demo](https://animatemovies.netlify.app/)**
 
-
-
+---
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/Anurag-Teurwade/Animated_Movies-/main/animate.png)
